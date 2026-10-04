@@ -1,0 +1,6 @@
+{
+  "name": "Datacore Stays — Instant Luxury Hotel & Resort Booking",
+  "description": "Book your perfect stay instantly and hassle-free with Datacore. Handpicked hotels, luxury resorts, and 24/7 dedicated concierge.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
